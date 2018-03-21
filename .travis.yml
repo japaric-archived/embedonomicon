@@ -1,3 +1,5 @@
+language: rust
+
 install:
   - bash ci/install.sh
 
