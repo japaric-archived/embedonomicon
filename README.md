@@ -2,6 +2,8 @@
 
 > Documentation about the low level magic that binds together embedded no_std programs
 
+## [The book](https://japaric.github.io/embedonomicon/)
+
 ## License
 
 The documentation is licensed under
