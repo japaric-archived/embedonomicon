@@ -8,8 +8,7 @@
 
 The documentation / book is licensed under
 
-- Creative Commons Attribution 4.0 License ([LICENSE-CC-BY](LICENSE-CC-BY)
-  or https://creativecommons.org/licenses/by/4.0/legalcode)
+- CC0 1.0 Universal ([LICENSE-CC](LICENSE-CC) or https://creativecommons.org/publicdomain/zero/1.0/)
 
 And the source code (embedded code snippets and free-standing Cargo projects) is licensed under
 either of
