@@ -1,3 +1,11 @@
+# UPDATE
+
+This book has been moved to [https://github.com/rust-lang-nursery/embedded-wg/tree/master/books/embedonomicon](https://github.com/rust-lang-nursery/embedded-wg/tree/master/books/embedonomicon).
+
+This repository won't be updated.
+
+---
+
 # The Embedonomicon
 
 > Documentation about the low level magic that binds together embedded no_std programs
